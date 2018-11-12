@@ -1,0 +1,28 @@
+body {
+  background-color: #1D1E22;
+}
+
+/*@font-face {
+  font-family: digital;
+  src:url(digital.ttf);
+}*/
+
+button {
+  font-size: 200%;
+  width: 45px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  border: solid 1px transparent;
+  border-radius: 50%;
+  color: #ffffff;
+  background-color: #005580;
+  margin:auto;
+}
+
+input {
+  /*font-family: digital;*/
+  font-size: 110%;
+  height: 50px;
+  text-align: right;
+}
